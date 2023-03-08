@@ -1,7 +1,5 @@
 # Amelia Nur Rizqa-2109116121-C2
 
-Untuk pertama-tama mohon maaf sepertinya websitenya tidak bisa dijalankan melalui github, jadi semua file projectnya bisa didownload semua lalu dijalankan melalui visual code, dikarenakan github bash punya saya error
-
 Untuk pertama-pertama disini saya membuat Website dengan Tema D'Permata Jewelry
 Dan dalam Website ini terdapat 4 halaman yaitu Halaman1 terdapat Homepage(Beranda), Halaman 2 terdapat Product, Halaman 3 terdapat About Jewelry(Tentang Jewelry), dan Halaman 4 terdapat Contact(Form)
 
